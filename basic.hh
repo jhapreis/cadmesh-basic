@@ -1,5 +1,3 @@
-// https://github.com/christopherpoole/CADMesh
-
 // GEANT4 //
 #include "G4VUserDetectorConstruction.hh"
 #include "G4NistManager.hh"
