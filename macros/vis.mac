@@ -19,7 +19,7 @@
 /vis/modeling/trajectories/drawByCharge-0/default/setStepPtsSize 2
 
 
-/vis/scene/endOfEventAction accumulate
+/vis/scene/endOfEventAction accumulate -1
 
 
 /vis/set/textColour green
